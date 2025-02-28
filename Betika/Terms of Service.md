@@ -1,7 +1,7 @@
 GENERAL TERMS & CONDITIONS
 --------------------------
 
-**Last updated: 10/01/2025**
+**Last updated: 28/02/2025**
 
 ### 1\. GENERAL 
 
@@ -319,7 +319,9 @@ X or 2 - the result is either a draw or away win;
 
 5.2.19. Minimum and Maximum bet stakes and Possible Win
 
-(a) Minimum Bet Amount: The minimum betting amount for a single/multi bet is Kshs. 10.  
+(a) Minimum Bet Amount:   
+         a. The minimum betting amount for a single bet is Kshs. 10.  
+         b. The minimum betting amount for a multi bet is Kshs. 1.  
 (b) Maximum Bet Amount: The maximum betting amount for a single/multi bet is Kshs. 20,000.  
 (c) Maximum Single Bet Winning: The Single bet winning amount is limited to Kshs. 200,000.  
 (d) Maximum Multi Bet Winning: The multibet winning amount is limited to Kshs. 1,000,000 exclusive of any other promotion(s) a customer participates in.  
