@@ -1,9 +1,9 @@
 M-PESA Customer Terms & Conditions
 ==================================
 
-Published: November 22, 2021 at 8:19 PM | Last Updated: May 28, 2024 at 1:54 PM
+Published: November 22, 2021 at 8:19 PM | Last Updated: August 7, 2025 at 3:49 PM
 
-[Download PDF](https://www.safaricom.co.ke/images/Downloads/CUSTOMER_TERMS_March_2012.pdf)
+[Download PDF](https://www.safaricom.co.ke/images/Downloads/M-PESA-Customer-Terms-Conditions.pdf)
 
 This Agreement contains the complete terms and conditions that apply to your participation in Safaricom's M-PESA Mobile Money Transfer Service and supersedes all other agreements entered into between you and Safaricom PLC of P.O. Box 66827 Westlands, Nairobi – 00800 (“Safaricom) with respect to the M- PESA mobile money transfer Services. These terms and conditions take effect on the date of publication. By participating in or continuing to use the [M-PESA](https://www.safaricom.co.ke/m-pesa "M-PESA") Service you shall be deemed to be making an affirmative statement of your acceptance of these terms and conditions.
 
