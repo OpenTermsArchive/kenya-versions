@@ -1,7 +1,7 @@
 GENERAL TERMS & CONDITIONS
 --------------------------
 
-**Last updated: 28/02/2025**
+**Last updated: 02/10/2025**
 
 ### 1\. GENERAL 
 
@@ -655,6 +655,18 @@ For all markets relating to booking points, the following rules apply:
 • A second yellow card that leads to a red card is 25 points.   
 • One player can only contribute a maximum of 35 points towards the total booking points.
 
+5.6. TOTAL BOOKINGS
+
+All Cards markets are for 90 minutes only, so any bookings that take place in extra time do not count for betting purposes. Cards cancelled by the referee during the course of the match, cards shown to any non-playing staff or non-active players and cards shown before kick-off or after the final whistle do not count. Cards shown during the half-time interval count towards 2nd half- and full-time markets.
+
+Total Bookings under this section and within the parameters listed above dictate that the cards are counted individually, be it a Yellow Card or Red Card. The Total Bookings are therefore the total number of cards awarded to both teams.
+
+Should the same player get a second yellow card resulting to a red card, the Total Bookings for this case will be 3 Bookings which is the maximum that 1 player can get.
+
+Should the Player get a Yellow Card then get a straight red card, the total bookings in this case is 3 as a Straight Red card is regarded as 2 Bookings. Should the Player get a Straight Red Card, this is considered as 2 Bookings. e.g. If Kenya gets 2 Yellow Cards in their match vs Tanzania, while Tanzania gets 1 Red Card, the total number of bookings in 4.
+
+Therefore, selections for Total Bookings Over 3.5 will be winning while Total Bookings Under 3.5 will be losing.
+
 ### 6\. LIVE/IN-PLAY BET
 
 +
@@ -1245,7 +1257,7 @@ For further information, please visit the page [http://www.ke.sportpesa.com/resp
 
 29.10. The Appendices, the Privacy Policy, the Rules and any document expressly referred to in them and any guidelines or rules posted on the Website form an integral part of these Terms and Conditions and shall have effect as if set out in full in the body of these Terms and Conditions.
 
-29.11. In the event of any inconsistency between the main body of these Terms and Conditions and the Appendices, the Privacy Policy, the Rules and/or any document expressly referred to in them and any guidelines or rules posted on the Mobile service, Website and all other media/electronic platforms shall prevail.
+29.11. In the event of any inconsistency between the main body of these Terms and Conditions and the Appendices, the Privacy Policy, the Rules and/or any document expressly referred to in them and any guidelines or rules posted on the Mobile service, Website and all other media/electronic platforms; these Terms and Conditions shall prevail. 
 
 29.12. Where a result is not confirmed within seventy-two (72) hours, bets placed on the market will be cancelled and bet stake refunded.
 
