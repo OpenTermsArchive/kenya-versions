@@ -16,9 +16,9 @@ ATTENTION: This legal notice applies to the entire contents of the Website under
 
 1.4 You are permitted to print and download extracts from the Website on the following basis:
 
-* No documents or related graphics on the Website are modified in any way;
-* No graphics on the Website are used separately from the corresponding text; and
-* The Company’s copyright and trade mark notices and this permission notice appear in all copies.
+*   No documents or related graphics on the Website are modified in any way;
+*   No graphics on the Website are used separately from the corresponding text; and
+*   The Company’s copyright and trade mark notices and this permission notice appear in all copies.
 
 1.5 Unless otherwise stated, the copyright and other intellectual property rights in all material on the Website (including without limitation photographs and graphical images) are owned by the Company or its licensors. For the purposes of this legal notice, any use of extracts from the Website other than in accordance with clause 1.4 for any purpose is prohibited. If you breach any of the terms in this legal notice, your permission to use the Website automatically terminates and you must immediately destroy any downloaded or printed extracts from the Website.
 
@@ -38,10 +38,10 @@ ATTENTION: This legal notice applies to the entire contents of the Website under
 
 1.11 You are prohibited from posting or transmitting to or from the Website any material:
 
-* that is threatening, defamatory, obscene, indecent, seditious, offensive, pornographic, abusive, liable to incite racial hatred, discriminatory, menacing, scandalous, inflammatory, blasphemous, in breach of confidence, in breach of privacy or which may cause annoyance or inconvenience; or
-* for which you have not obtained all necessary licences and/or approvals; or
-* which constitutes or encourages conduct that would be considered a criminal offence, give rise to civil liability, or otherwise be contrary to the law of or infringe the rights of any third party, in any country in the world; or
-* which is technically harmful (including, without limitation, computer viruses, logic bombs, Trojan horses, worms, harmful components, corrupted data or other malicious software or harmful data).
+*   that is threatening, defamatory, obscene, indecent, seditious, offensive, pornographic, abusive, liable to incite racial hatred, discriminatory, menacing, scandalous, inflammatory, blasphemous, in breach of confidence, in breach of privacy or which may cause annoyance or inconvenience; or
+*   for which you have not obtained all necessary licences and/or approvals; or
+*   which constitutes or encourages conduct that would be considered a criminal offence, give rise to civil liability, or otherwise be contrary to the law of or infringe the rights of any third party, in any country in the world; or
+*   which is technically harmful (including, without limitation, computer viruses, logic bombs, Trojan horses, worms, harmful components, corrupted data or other malicious software or harmful data).
 
 1.12 You may not misuse the Website (including, without limitation, by hacking).
 
@@ -53,13 +53,13 @@ ATTENTION: This legal notice applies to the entire contents of the Website under
 
 1.15 If you would like to link to the Website, you may only do so on the basis that you link to, but do not replicate, the home page of the Website, and subject to the following conditions:
 
-* You do not remove, distort or otherwise alter the size or appearance of the www .bimarahisi.com logo;
-* You do not create a frame or any other browser or border environment around the Website;
-* You do not in any way imply that the Website is endorsing any products or services other than its own;
-* You do not misrepresent your relationship with the Company nor present any other false information about the Company;
-* You do not otherwise use any trade marks displayed on the Website without express written permission from the Company;
-* You do not link from a website that is not owned by you; and
-* Your website does not contain content that is distasteful, offensive or controversial, infringes any intellectual property rights or other rights of any other person or otherwise does not comply with all applicable laws and regulations.
+*   You do not remove, distort or otherwise alter the size or appearance of the www .bimarahisi.com logo;
+*   You do not create a frame or any other browser or border environment around the Website;
+*   You do not in any way imply that the Website is endorsing any products or services other than its own;
+*   You do not misrepresent your relationship with the Company nor present any other false information about the Company;
+*   You do not otherwise use any trade marks displayed on the Website without express written permission from the Company;
+*   You do not link from a website that is not owned by you; and
+*   Your website does not contain content that is distasteful, offensive or controversial, infringes any intellectual property rights or other rights of any other person or otherwise does not comply with all applicable laws and regulations.
 
 1.16 The Company expressly reserves the right to revoke the right granted in clause 1.15 for breach of these terms and to take any action it deems appropriate.
 
@@ -99,10 +99,10 @@ The Company shall not be responsible or liable in any manner whatsoever for any 
 
 1.23 Nothing in this legal notice shall exclude or limit the Company’s liability for:
 
-* Death or personal injury caused by negligence
-* Fraud; or
-* Misrepresentation as to a fundamental matter; or
-* Any liability which cannot be excluded or limited under applicable law.
+*   Death or personal injury caused by negligence
+*   Fraud; or
+*   Misrepresentation as to a fundamental matter; or
+*   Any liability which cannot be excluded or limited under applicable law.
 
 1.24 If your use of material on the Website results in the need for servicing, repair or correction of equipment, software or data, you assume all costs thereof.
 
@@ -112,11 +112,11 @@ Any dispute or claim arising out of or in connection with the Website shall be g
 
 **Online Payments**
 
-* Minors under the age of 18 shall are prohibited to register as a User of this Website and are not allowed to transact or use the Website.
-* If you make a payment for our products or services on our Website, the details you are asked to submit will be provided directly to our payment provider via a secured connection.
-* The cardholder must retain a copy of transaction records and agree to Merchant policies and rules.
-* Refunds will be done only through the Original Mode of Payment.
-* We accept payments online using Mpesa in Ksh currency.
+*   Minors under the age of 18 shall are prohibited to register as a User of this Website and are not allowed to transact or use the Website.
+*   If you make a payment for our products or services on our Website, the details you are asked to submit will be provided directly to our payment provider via a secured connection.
+*   The cardholder must retain a copy of transaction records and agree to Merchant policies and rules.
+*   Refunds will be done only through the Original Mode of Payment.
+*   We accept payments online using Mpesa in Ksh currency.
 
 **Contact Us**
 
