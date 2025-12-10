@@ -64,13 +64,13 @@ Each user of the Service is solely responsible for any and all his or her User C
 
 By using the Service, you represent and warrant that:
 
-1. you have the legal capacity and you agree to comply with these Terms;
-2. you are not under the age of 16;
-3. you will not access the Service through automated or non-human means, whether through a bot, script or otherwise;
-4. you will not use the Service for any illegal or unauthorized purpose;
-5. you are not located in a country that is subject to a U.S. government embargo, or that has been designated by the U.S. government as a "terrorist supporting" country;
-6. you are not listed on any U.S. government list of prohibited or restricted parties;
-7. your use of the Service will not violate any applicable law or regulation.
+1.  you have the legal capacity and you agree to comply with these Terms;
+2.  you are not under the age of 16;
+3.  you will not access the Service through automated or non-human means, whether through a bot, script or otherwise;
+4.  you will not use the Service for any illegal or unauthorized purpose;
+5.  you are not located in a country that is subject to a U.S. government embargo, or that has been designated by the U.S. government as a "terrorist supporting" country;
+6.  you are not listed on any U.S. government list of prohibited or restricted parties;
+7.  your use of the Service will not violate any applicable law or regulation.
 
 If you provide any information that is untrue, inaccurate, not current, or incomplete, we have the right to refuse any and all current or future use of the Service (or any portion thereof).
 
@@ -78,24 +78,24 @@ You may not access or use the Service for any purpose other than that for which 
 
 As a user of the Service, you agree not to:
 
-1. systematically retrieve data or other content from the Service to create or compile, directly or indirectly, a collection, compilation, database, or directory without written permission from us;
-2. make any unauthorized use of the Service;
-3. make any modification, adaptation, improvement, enhancement, translation, or derivative work from the Service;
-4. use the Service for any revenue generating endeavor, commercial enterprise, or other purpose for which it is not designed or intended;
-5. make the Service available over a network or other environment permitting access or use by multiple devices or users at the same time;
-6. use the Service for creating a product, service, or software that is, directly or indirectly, competitive with or in any way a substitute for the Service;
-7. use any proprietary information or any of our interfaces or our other intellectual property in the design, development, manufacture, licensing, or distribution of any applications, accessories, or devices for use with the Service;
-8. circumvent, disable, or otherwise interfere with security-related features of the Service;
-9. engage in unauthorized framing of or linking to the Service;
-10. interfere with, disrupt, or create an undue burden on the Service or the networks or services connected to the Service;
-11. decipher, decompile, disassemble, or reverse engineer any of the software comprising or in any way making up a part of the Service;
-12. attempt to bypass any measures of the Service designed to prevent or restrict access to the Service, or any portion of the Service;
-13. upload or distribute in any way files that contain viruses, worms, trojans, corrupted files, or any other similar software or programs that may damage the operation of another's computer;
-14. use, launch, develop, or distribute any automated system, including without limitation, any spider, robot, cheat utility, scraper, or offline reader that accesses the Service, or using or launching any unauthorized script or other software;
-15. use the Service to send automated queries to any website or to send any unsolicited commercial e-mail;
-16. disparage, tarnish, or otherwise harm, in our opinion, us and/or the Service;
-17. use the Service in a manner inconsistent with any applicable laws or regulations;
-18. or otherwise infringe these Terms.
+1.  systematically retrieve data or other content from the Service to create or compile, directly or indirectly, a collection, compilation, database, or directory without written permission from us;
+2.  make any unauthorized use of the Service;
+3.  make any modification, adaptation, improvement, enhancement, translation, or derivative work from the Service;
+4.  use the Service for any revenue generating endeavor, commercial enterprise, or other purpose for which it is not designed or intended;
+5.  make the Service available over a network or other environment permitting access or use by multiple devices or users at the same time;
+6.  use the Service for creating a product, service, or software that is, directly or indirectly, competitive with or in any way a substitute for the Service;
+7.  use any proprietary information or any of our interfaces or our other intellectual property in the design, development, manufacture, licensing, or distribution of any applications, accessories, or devices for use with the Service;
+8.  circumvent, disable, or otherwise interfere with security-related features of the Service;
+9.  engage in unauthorized framing of or linking to the Service;
+10.  interfere with, disrupt, or create an undue burden on the Service or the networks or services connected to the Service;
+11.  decipher, decompile, disassemble, or reverse engineer any of the software comprising or in any way making up a part of the Service;
+12.  attempt to bypass any measures of the Service designed to prevent or restrict access to the Service, or any portion of the Service;
+13.  upload or distribute in any way files that contain viruses, worms, trojans, corrupted files, or any other similar software or programs that may damage the operation of another's computer;
+14.  use, launch, develop, or distribute any automated system, including without limitation, any spider, robot, cheat utility, scraper, or offline reader that accesses the Service, or using or launching any unauthorized script or other software;
+15.  use the Service to send automated queries to any website or to send any unsolicited commercial e-mail;
+16.  disparage, tarnish, or otherwise harm, in our opinion, us and/or the Service;
+17.  use the Service in a manner inconsistent with any applicable laws or regulations;
+18.  or otherwise infringe these Terms.
 
 6\. DISCLAIMER OF WARRANTIES
 ----------------------------
