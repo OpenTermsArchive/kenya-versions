@@ -9,10 +9,10 @@ These general terms of use and contracting (hereinafter, the “General Terms”
 
 In accordance with the provisions of the applicable legislation, the following identification details of the site owner are provided below:
 
-* Company name: Glovo Uganda SMC Limited
-* Registered address: 4th Floor, DFCU Towers, 26 Kyadondo Road, Nakasero, P O Box 1520, Kampala
-* Office address: 1 Bukoto St, Kampala, Uganda
-* Tax Identification Number: 1017265563
+*   Company name: Glovo Uganda SMC Limited
+*   Registered address: 4th Floor, DFCU Towers, 26 Kyadondo Road, Nakasero, P O Box 1520, Kampala
+*   Office address: 1 Bukoto St, Kampala, Uganda
+*   Tax Identification Number: 1017265563
 
 **Index**
 ---------
@@ -77,12 +77,12 @@ By accessing the Site and/or the APP and voluntarily creating a profile, all Use
 
 In order to be a User of the APP, it is essential that you meet the following requirements:
 
-* Users must be at least 18 years of age.
-* Users must truthfully complete the mandatory fields of the registration form requesting personal details such as the User’s name, e-mail address, telephone number and bank card number.
-* Users must carefully read these General Terms when accessing the APP. Further, acceptance of the General Terms is an essential step to be taken before registration. 
-* Users must agree to the [Privacy and](https://glovoapp.com/es/legal/privacy) [Data Protection Policy.](https://glovoapp.com/es/legal/privacy)
-* Users must agree to the [Cookie Policy.](https://glovoapp.com/es/legal/cookies)
-* Users must agree to the Standards of Ethics and Business Conduct for Third Parties available at [https://compliance.glovoapp.com/public/compliance](https://compliance.glovoapp.com/public/compliance) 
+*   Users must be at least 18 years of age.
+*   Users must truthfully complete the mandatory fields of the registration form requesting personal details such as the User’s name, e-mail address, telephone number and bank card number.
+*   Users must carefully read these General Terms when accessing the APP. Further, acceptance of the General Terms is an essential step to be taken before registration. 
+*   Users must agree to the [Privacy and](https://glovoapp.com/es/legal/privacy) [Data Protection Policy.](https://glovoapp.com/es/legal/privacy)
+*   Users must agree to the [Cookie Policy.](https://glovoapp.com/es/legal/cookies)
+*   Users must agree to the Standards of Ethics and Business Conduct for Third Parties available at [https://compliance.glovoapp.com/public/compliance](https://compliance.glovoapp.com/public/compliance) 
 
 Once all requirements are fulfilled and registration on the APP is completed, Glovo will provide the User with the registration confirmation, together with any other information necessary in accordance with the law applicable.
 
@@ -110,14 +110,14 @@ Any persons who breach the above obligations shall be liable for any loss or dam
 
 In general, Users undertake, by way of example without limitation:
 
-* To refrain from altering or modifying the APP, in full or in part, by bypassing, disabling or in any other way tampering with, its functions or services;
-* To refrain from infringing industrial and intellectual property rights or the personal data protection legislation;
-* To refrain from using the APP to insult, defame, intimidate or harass other Users or attack their image; 
-* To refrain from accessing other Users’ email accounts;
-* To refrain from introducing computer viruses, corrupted files or any other software that may cause damage or alterations to Glovo’s or third parties’ contents or systems;
-* To refrain from sending mass and/or recurring emails to a number of people, or from sending third parties’ e-mail addresses without their consent;
-* To refrain from advertising goods or services without Glovo’s prior consent.
-* Any User may report another User if he/she believes that the latter is in breach of these General Terms. Similarly, any User may inform Glovo of any abuse or infringement of these terms through the Help section of the APP. Glovo will check such reports as soon as possible and will take any steps that it may deem appropriate, reserving the right to remove and/or suspend any User from the APP for breach of these General Terms. Furthermore, Glovo reserves the right to remove and/or suspend any message with illegal or offensive content without the need for a prior warning or subsequent notification.
+*   To refrain from altering or modifying the APP, in full or in part, by bypassing, disabling or in any other way tampering with, its functions or services;
+*   To refrain from infringing industrial and intellectual property rights or the personal data protection legislation;
+*   To refrain from using the APP to insult, defame, intimidate or harass other Users or attack their image; 
+*   To refrain from accessing other Users’ email accounts;
+*   To refrain from introducing computer viruses, corrupted files or any other software that may cause damage or alterations to Glovo’s or third parties’ contents or systems;
+*   To refrain from sending mass and/or recurring emails to a number of people, or from sending third parties’ e-mail addresses without their consent;
+*   To refrain from advertising goods or services without Glovo’s prior consent.
+*   Any User may report another User if he/she believes that the latter is in breach of these General Terms. Similarly, any User may inform Glovo of any abuse or infringement of these terms through the Help section of the APP. Glovo will check such reports as soon as possible and will take any steps that it may deem appropriate, reserving the right to remove and/or suspend any User from the APP for breach of these General Terms. Furthermore, Glovo reserves the right to remove and/or suspend any message with illegal or offensive content without the need for a prior warning or subsequent notification.
 
 ### **2.4. User reviews**
 
@@ -168,22 +168,22 @@ Where so enabled for IN-STORE orders in the application, Users may place orders 
 
 How does the IN-STORE service work?
 
-1. To use the IN-STORE service, Users must scan the QR code that will be displayed in a publicly visible area of each Merchants’ premises.
-2. Once the QR code has been scanned, it will link to the menu of the restaurant where the User is located, so that he or she can place the order. The User will be able to select the items offered by the Merchant and confirm the purchase through the IN-STORE option.
-3. If the QR code cannot be scanned due to any kind of error or defect, the User can check whether the order can be placed by searching for the Merchant’s store on their device directly from the Glovo APP.
-4. Once the order has been confirmed in accordance with the payment method enabled for this purpose, it may only be cancelled through the APP before the Merchant has agreed to prepare it. If a User later wishes to change an order or the Merchant delays in its preparation, he/she must contact the Merchant in question directly.
-5. Once the order has been confirmed, the order number will appear on the screen of the User’s device, and this must be shown to the staff of the Merchant when collecting it.
-6. The price of orders placed through the IN-STORE option will not include the additional delivery cost.
-7. Certain promotional codes may not be used for orders placed using the IN-STORE service.
+1.  To use the IN-STORE service, Users must scan the QR code that will be displayed in a publicly visible area of each Merchants’ premises.
+2.  Once the QR code has been scanned, it will link to the menu of the restaurant where the User is located, so that he or she can place the order. The User will be able to select the items offered by the Merchant and confirm the purchase through the IN-STORE option.
+3.  If the QR code cannot be scanned due to any kind of error or defect, the User can check whether the order can be placed by searching for the Merchant’s store on their device directly from the Glovo APP.
+4.  Once the order has been confirmed in accordance with the payment method enabled for this purpose, it may only be cancelled through the APP before the Merchant has agreed to prepare it. If a User later wishes to change an order or the Merchant delays in its preparation, he/she must contact the Merchant in question directly.
+5.  Once the order has been confirmed, the order number will appear on the screen of the User’s device, and this must be shown to the staff of the Merchant when collecting it.
+6.  The price of orders placed through the IN-STORE option will not include the additional delivery cost.
+7.  Certain promotional codes may not be used for orders placed using the IN-STORE service.
 
 ##### **B)  PICK-UP Orders**
 
 Where so enabled for PICK-UP orders in the APP, Users may place orders directly from the APP at those Merchants’ establishments that have chosen to include this option and pick them up in-store within the times stated.
 
-1. In order to be able to use the PICK-UP option, Users must select this option on the APP for the establishments for which it is available, together with the products that they wish to buy at those establishments, and confirm the order on the APP itself.
-2. Once the order has been confirmed in accordance with the payment method enabled for this purpose, it may only be cancelled through the APP before the Merchant has accepted and started to prepare it. 
-3. Once the order has been confirmed, the order number will appear on the screen of the User’s device, and this must be shown to the staff of the establishment when collecting it.
-4. The price of orders placed through the PICK-UP option will not include the additional delivery cost.
+1.  In order to be able to use the PICK-UP option, Users must select this option on the APP for the establishments for which it is available, together with the products that they wish to buy at those establishments, and confirm the order on the APP itself.
+2.  Once the order has been confirmed in accordance with the payment method enabled for this purpose, it may only be cancelled through the APP before the Merchant has accepted and started to prepare it. 
+3.  Once the order has been confirmed, the order number will appear on the screen of the User’s device, and this must be shown to the staff of the establishment when collecting it.
+4.  The price of orders placed through the PICK-UP option will not include the additional delivery cost.
 
 #### **The Marketplace Option**
 
@@ -219,11 +219,11 @@ Through the SuperGlovo model, Glovo makes available to Users, on the APP, a cate
 
 The services made available to Users through the APP, regardless of the model, will be carried out only in case the following conditions are met at the time of payment:
 
-* The service requested by the User must be operative during the chosen time slot.
-* The products purchased, the goods to be delivered and/or the errand to be performed must be in one of the cities, and within the available area, in which Glovo operates.
-* The destination must be located in the same city area as the product and/or the collection address.
-* The product(s) ordered cannot exceed the following size: 40 cm x 40 cm x 30 cm\*
-* The maximum weight of a single order will be approximately 9 kg\*
+*   The service requested by the User must be operative during the chosen time slot.
+*   The products purchased, the goods to be delivered and/or the errand to be performed must be in one of the cities, and within the available area, in which Glovo operates.
+*   The destination must be located in the same city area as the product and/or the collection address.
+*   The product(s) ordered cannot exceed the following size: 40 cm x 40 cm x 30 cm\*
+*   The maximum weight of a single order will be approximately 9 kg\*
 
 \*The above-mentioned size and weight will not apply in the case of vehicles capable of accommodating such volumes.
 
@@ -325,9 +325,9 @@ In accordance with the nature of the intermediation service offered by Glovo, th
 
 The cost of cancellation may depend on the following factors:
 
-1. If the Merchant has already accepted the order and started preparing it, the User will be charged the price of the products. The User will be informed of the Merchant’s acceptance through the APP and/or by e-mail at the e-mail address registered by the User. 
-2. If the User cancels the order once the Mandatary has accepted it for processing, the User will be charged the cancellation fee. The User will be informed of the Mandatary’s acceptance through the APP. The User can see the cost of cancellation on the APP. If the Merchant and the Mandatary have both accepted the order for processing, the User will be charged both the price of the products and the cancellation fee.
-3. If the order must be cancelled by Glovo and/or by the Merchant, due to reasons that are not directly attributable to the User but outside Glovo’s control (e.g. lack of stock, change in the price by the Merchant, etc), Glovo’s agents or the Mandatary will contact the User to inform the latter of the alternatives available and the costs that these will entail, if any.
+1.  If the Merchant has already accepted the order and started preparing it, the User will be charged the price of the products. The User will be informed of the Merchant’s acceptance through the APP and/or by e-mail at the e-mail address registered by the User. 
+2.  If the User cancels the order once the Mandatary has accepted it for processing, the User will be charged the cancellation fee. The User will be informed of the Mandatary’s acceptance through the APP. The User can see the cost of cancellation on the APP. If the Merchant and the Mandatary have both accepted the order for processing, the User will be charged both the price of the products and the cancellation fee.
+3.  If the order must be cancelled by Glovo and/or by the Merchant, due to reasons that are not directly attributable to the User but outside Glovo’s control (e.g. lack of stock, change in the price by the Merchant, etc), Glovo’s agents or the Mandatary will contact the User to inform the latter of the alternatives available and the costs that these will entail, if any.
 
 The total cost of cancellation will appear on the User’s screen on pressing the “Cancel” button on the APP, based on the factors described above. 
 
@@ -379,7 +379,7 @@ This section presents a non-Exhaustive List of Examples of items that may be leg
 | Human Body | Organs or other body parts; body fluids; stem cells; embryos. |
 | Stolen or illegal goods | Materials, products or information that promotes illegal goods or facilitates illegal acts; goods not belonging to a person or which a person has no right to sell; goods produced in violation of third-party rights; goods infringing import, export or labelling restrictions; motor vehicles that are subject to transfer restrictions. You (the Glovo User) are solely and fully responsible for checking that all items are genuine and legal. |
 | Illegal telecommunications equipment | Devices aimed at obtaining satellite signals without payment, illegal products for modifying mobile phones and other equipment. |
-| Offensive goods | Goods, literature, products, or other materials that:<br><br>* Are defamatory of any person or group of people based on their race, ethnic origin or country of origin, religion, gender, or any other factor.<br>* Are defamatory of any person or group of people who are protected from defamation by the applicable law (e.g., the royal family in some jurisdictions).<br>* Praise or incite the commission of violence.<br>* Promote intolerance or hatred.<br>* Promote or support membership of terrorist groups or other organisations that are prohibited by law.<br>* Are contrary to public morals. |
+| Offensive goods | Goods, literature, products, or other materials that:<br><br>*   Are defamatory of any person or group of people based on their race, ethnic origin or country of origin, religion, gender, or any other factor.<br>*   Are defamatory of any person or group of people who are protected from defamation by the applicable law (e.g., the royal family in some jurisdictions).<br>*   Praise or incite the commission of violence.<br>*   Promote intolerance or hatred.<br>*   Promote or support membership of terrorist groups or other organisations that are prohibited by law.<br>*   Are contrary to public morals. |
 | Offensive goods related to a criminal offence | Photographs of, or objects from, a crime scene, such as personal belongings, associated with criminals or criminal acts. |
 | Culturally protected artefacts | Materials covered by the 1970 UNESCO Convention on the Means of Prohibiting and Preventing the Illicit Import, Export and Transfer of Ownership of Cultural Property or other goods whose sale, export or transfer is restricted by law; Artefacts, cave formations (stalactites and stalagmites); |
 | Pyrotechnic devices and dangerous substances requiring special permission | Pyrotechnic items and related goods in markets in which their supply is regulated, as well as substances such as petrol or propane. |
@@ -452,9 +452,9 @@ Glovo does not guarantee the absence of errors or interruptions when accessing t
 
 Glovo accepts no liability for any security errors that may arise or for any damage that may be caused to the User’s computer system (hardware and software), or to the files or documents stored therein, as a result of:
 
-* The presence of a virus in the User’s computer system or mobile handset used to connect to the APP’s contents and services;
-* A malfunction of the browser;
-* The use of outdated versions thereof.
+*   The presence of a virus in the User’s computer system or mobile handset used to connect to the APP’s contents and services;
+*   A malfunction of the browser;
+*   The use of outdated versions thereof.
 
 Glovo hereby confirms that it has obtained all necessary licences for the pursuit of its technological intermediation activities in the countries in which it operates.
 
@@ -550,10 +550,10 @@ In order to register for the GLOVOPRIME service, the User must have a current ac
 
 The GLOVOPRIME service is activated through the following process:
 
-* After accessing the sections entitled “my account” and “GLOVOPRIME”, the User must select the “Register and pay” section and pay the above monthly fee.
-* The payment date will be the GLOVOPRIME subscription start date (hereinafter “the Activation Date”), and the subscription will be valid for a one-month period. On the Activation Date, Users who have registered for this service will receive an e-mail with confirmation of their registration at the address provided by them in their GLOVO account.
-* After the Activation Date, the User may use the GLOVOPRIME service for 30 calendar days, for a one-month period. Please, note that the User may experience some delay in the effective activation of his or her account from the Activation Date; if this delay exceeds 72h, the User shall contact Glovo’s User Support through the Help Section in the APP.
-* Users will find all the information relating to their GLOVOPRIME subscription in the “My Account” section of the application. There, they can check the remaining time of their Free Trial Period, where applicable, as well as, among other things, cancel their GLOVOPRIME subscription or update their payment method.
+*   After accessing the sections entitled “my account” and “GLOVOPRIME”, the User must select the “Register and pay” section and pay the above monthly fee.
+*   The payment date will be the GLOVOPRIME subscription start date (hereinafter “the Activation Date”), and the subscription will be valid for a one-month period. On the Activation Date, Users who have registered for this service will receive an e-mail with confirmation of their registration at the address provided by them in their GLOVO account.
+*   After the Activation Date, the User may use the GLOVOPRIME service for 30 calendar days, for a one-month period. Please, note that the User may experience some delay in the effective activation of his or her account from the Activation Date; if this delay exceeds 72h, the User shall contact Glovo’s User Support through the Help Section in the APP.
+*   Users will find all the information relating to their GLOVOPRIME subscription in the “My Account” section of the application. There, they can check the remaining time of their Free Trial Period, where applicable, as well as, among other things, cancel their GLOVOPRIME subscription or update their payment method.
 
 ### **3. Subscription Period**
 
@@ -591,11 +591,11 @@ The GLOVOPRIME service is activated through the following process:
 
 The following specific terms shall apply to the GLOVOPRIME service:
 
-* The GLOVOPRIME service shall only apply to purchases carried out in person by means of a Mandatary, at establishments with which Glovo has a commercial agreement, for amounts of over the Minimum Basket Size applicable to each order indicated in the APP.
-* GLOVOPRIME may only be activated in some of the countries in which GLOVO operates.
-* The GLOVOPRIME subscription fee will only apply in the country from which the GLOVOPRIME subscription was activated. In other words, if the subscription was activated in Spain and the User is travelling in Italy, the GLOVOPRIME subscription fee will apply solely and exclusively in Spain, and not in Italy.
-* It will only be available for individuals and for private, non-commercial use.
-* Under no circumstances may the subscription be shared with, or assigned to, any persons other than its holder, and companies and the “B2B” service are expressly excluded from the service.
+*   The GLOVOPRIME service shall only apply to purchases carried out in person by means of a Mandatary, at establishments with which Glovo has a commercial agreement, for amounts of over the Minimum Basket Size applicable to each order indicated in the APP.
+*   GLOVOPRIME may only be activated in some of the countries in which GLOVO operates.
+*   The GLOVOPRIME subscription fee will only apply in the country from which the GLOVOPRIME subscription was activated. In other words, if the subscription was activated in Spain and the User is travelling in Italy, the GLOVOPRIME subscription fee will apply solely and exclusively in Spain, and not in Italy.
+*   It will only be available for individuals and for private, non-commercial use.
+*   Under no circumstances may the subscription be shared with, or assigned to, any persons other than its holder, and companies and the “B2B” service are expressly excluded from the service.
 
 ### **7. General Terms of Service**
 
@@ -667,10 +667,10 @@ The services requested by the User on the Glovo Business Platform will not entai
 
 When using the Glovo Business Platform, Users will be able to choose between the following types of service:
 
-* "One-way order": Products are collected from a single place and delivered to a single delivery address.
-* “Return order": Products are collected from a single place, taken to a second address and then returned to their point of origin (the first address).
-* "Multiple pick-up order": There are several collection addresses and a single delivery address.
-* “Multiple drop-off order": There is a single collection address and several delivery addresses.
+*   "One-way order": Products are collected from a single place and delivered to a single delivery address.
+*   “Return order": Products are collected from a single place, taken to a second address and then returned to their point of origin (the first address).
+*   "Multiple pick-up order": There are several collection addresses and a single delivery address.
+*   “Multiple drop-off order": There is a single collection address and several delivery addresses.
 
 Each Order may have a free-text box for each order so that Users can include any relevant comments about their Orders for clarification to the Mandatary.
 
@@ -698,8 +698,8 @@ In accordance with these terms, Users will be entitled to know the approximate F
 
 Payment for the service rendered may be made by the following methods, to be freely chosen by the User:
 
-* Credit card: Users may pay for each Order individually using a credit card in the same manner and under the same terms as provided in the General Terms of Use and Contracting.
-* Monthly payments / direct debit: GLOVO will collect the total amount incurred by the User in each calendar month by direct debit based on the information provided by the User.
+*   Credit card: Users may pay for each Order individually using a credit card in the same manner and under the same terms as provided in the General Terms of Use and Contracting.
+*   Monthly payments / direct debit: GLOVO will collect the total amount incurred by the User in each calendar month by direct debit based on the information provided by the User.
 
 If the direct debit is cancelled and the relevant payment can therefore not be taken, the amount owed by the User will be charged to his/her associated credit card her on the same day on which GLOVO is notified of the direct debit failure. In such case, the User must bear the costs arising from the direct debit failure (e.g., bank charges).
 
@@ -730,8 +730,8 @@ Glovo accepts no liability for any adverse reactions that may be suffered by Use
 
 Users may choose between two options when making a FOOD RESCUE order:
 
-* Collection from the Merchant’s establishment. In such cases, Users must physically collect their FOOD RESCUE order from the Merchant’s establishment indicated on the APP, enabling Users to physically collect orders themselves.
-* Home delivery. In such cases, Users will receive their order, which will be collected by a Mandatary from the Merchant’s establishment, at the delivery address provided by the Users on the APP.
+*   Collection from the Merchant’s establishment. In such cases, Users must physically collect their FOOD RESCUE order from the Merchant’s establishment indicated on the APP, enabling Users to physically collect orders themselves.
+*   Home delivery. In such cases, Users will receive their order, which will be collected by a Mandatary from the Merchant’s establishment, at the delivery address provided by the Users on the APP.
 
 **ANNEX I - DETAILS OF GLOVO’S AFFILIATED COMPANIES**
 -----------------------------------------------------
