@@ -1,7 +1,7 @@
 GENERAL TERMS & CONDITIONS
 --------------------------
 
-**Last updated: 02/10/2025**
+**Last updated: 11/02/2026**
 
 ### 1\. GENERAL 
 
@@ -1009,7 +1009,7 @@ b) “promotion” means the Goal Rush promotion offered by the Company.
 18.10.3.  To participate in this promotion, the customer must:
 
 a)  have successfully registered an account with the Company;  
-b)  have placed a paid bet with on the Company’s platform in the last 7 days;  
+b)  have placed a bet on the Company’s platform within the last seven (7) days, excluding any bets that were cancelled or voided by the punter;  
 c)  login and place his/her prediction using his/her account; and  
 d) share his/her prediction on such social media platform as maybe determined by the Company at its sole discretion (‘permitted social media platform’). 
 
