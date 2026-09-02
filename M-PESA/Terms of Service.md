@@ -1,9 +1,9 @@
 M-PESA Customer Terms & Conditions
 ==================================
 
-Published: November 22, 2021 at 8:19 PM | Last Updated: September 1, 2026 at 12:26 PM
+Published: November 22, 2021 at 8:19 PM | Last Updated: September 2, 2026 at 8:23 AM
 
-[Download PDF](https://www.safaricom.co.ke/images/Downloads/M-PESA-CUSTOMER-Ts_Cs-Clean-2026.pdf)
+[Download PDF](https://www.safaricom.co.ke/images/Downloads/M-PESA_CUSTOMER_Terms_and_Conditions_2026.pdf)
 
 This Agreement contains the complete terms and conditions that apply to your participation in Safaricom's M-PESA Service (hereafter defined) and supersedes all other agreements entered into between you and Safaricom PLC of P.O. Box 66827 Westlands, Nairobi – 00800 ("Safaricom) with respect to the MPESA Service. These Terms and Conditions take effect on the date of publication. By participating in or continuing to use the M-PESA Service, you shall be deemed to be making an affirmative statement of your acceptance of these Terms and Conditions.
 
