@@ -1,7 +1,7 @@
 GENERAL TERMS & CONDITIONS
 --------------------------
 
-**Last updated: 11/02/2026**
+**Last updated: 23/10/2026**
 
 ### 1\. GENERAL 
 
@@ -322,10 +322,10 @@ X or 2 - the result is either a draw or away win;
 (a) Minimum Bet Amount:   
          a. The minimum betting amount for a single bet is Kshs. 10.  
          b. The minimum betting amount for a multi bet is Kshs. 1.  
-(b) Maximum Bet Amount: The maximum betting amount for a single/multi bet is Kshs. 20,000.  
-(c) Maximum Single Bet Winning: The Single bet winning amount is limited to Kshs. 200,000.  
-(d) Maximum Multi Bet Winning: The multibet winning amount is limited to Kshs. 1,000,000 exclusive of any other promotion(s) a customer participates in.  
-(e) Maximum Aggregate Winning (maximum payout) the Maximum aggregate win per customer per day  is limited to Kshs. 1,500,000 exclusive of any other promotion(s) they participate in.
+(b) Maximum Bet Amount: The maximum betting amount for a single/multi bet is Kshs. 500,000.  
+(c) Maximum Single Bet Winning: The Single bet winning amount is limited to Kshs. 4,000,000.  
+(d) Maximum Multi Bet Winning: The multibet winning amount is limited to Kshs. 5,000,000 exclusive of any other promotion(s) a customer participates in.  
+(e) Maximum Aggregate Winning (maximum payout) the Maximum aggregate win per customer per day  is limited to Kshs. 10,000,000 exclusive of any other promotion(s) they participate in.
 
 5.2.20. The bet sizes set afore are subject to change at the Company’s discretion. You are not permitted to place bets or try to place bets that are below the minimum bet limit or exceeded the maximum bet sizes thresholds.The Company reserves the right vary and or set different minimum and maximum bet amounts as it may deem appropriate for its products.
 
@@ -667,6 +667,21 @@ Should the Player get a Yellow Card then get a straight red card, the total book
 
 Therefore, selections for Total Bookings Over 3.5 will be winning while Total Bookings Under 3.5 will be losing.
 
+5.7. DEAD HEAT FACTOR
+
+In the event of a dead heat or tie, where odds have not been explicitly offered on the tied outcome and the bet is not placed under a “Draw No Bet” market, a Dead Heat Factor shall be applied for settlement purposes.
+
+Under a dead heat scenario, the total stake shall be divided equally by the number of participants deemed tied winners. The applicable odds will then be applied solely to the resulting divided stake.
+
+Example:
+
+Where a bet is placed on the “Top Goalscorer” market at odds of 2.75, with a stake of Ksh. 120 and three (3) players are declared joint top goalscorers:
+
+• The original stake of Ksh. 120 shall be divided by 3, resulting in Ksh. 40;  
+• The reduced stake of Ksh. 40 shall be settled at the full odds of 2.75;
+
+Accordingly, the total return payable shall be Ksh. 110 (i.e., Ksh. 40 × 2.75).
+
 ### 6\. LIVE/IN-PLAY BET
 
 +
@@ -927,11 +942,11 @@ Additional terms may be found at [https://preprod.ke.sportpesa.com/luckynumbers
 
 18.6.1. This bonus scheme is available to all players who place a multibet with at least three selections, of at least 1.3 odds for each.
 
-18.6.2. When you participate in this promotion, you will be awarded a bonus of up to Kes. Ten Million (10,000,000) per bet if your multibet wins.
+18.6.2. When you participate in this promotion, you will be awarded a bonus of up to Kes. Fifty Million (50,000,000) per bet if your multibet wins.
 
 #### 18.7. Cumulative Maximum Payout
 
-18.7.1. The cumulative maximum payout for Customers who participate in both the multibet boost promotion and the betspinner promotion is restricted to Kenya Shillings Sixteen Million Five Hundred Thousand (KSH 16,500,000/-) per Customer per day.
+18.7.1. The cumulative maximum payout for Customers who participate in both the multibet boost promotion and the betspinner promotion is restricted to Kenya Shillings Fifty Six Million (KSH 56,000,000/-) per Customer per day.
 
 #### 18.8. Cash Out
 
